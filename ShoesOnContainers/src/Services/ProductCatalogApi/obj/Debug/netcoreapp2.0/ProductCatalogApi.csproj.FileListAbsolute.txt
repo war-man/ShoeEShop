@@ -1,0 +1,11 @@
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojAssemblyReference.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.deps.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.runtimeconfig.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.runtimeconfig.dev.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.dll
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.0\ProductCatalogApi.pdb
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.dll
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.pdb

@@ -1,0 +1,14 @@
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.2\ProductCatalogApi.deps.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.2\ProductCatalogApi.runtimeconfig.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.2\ProductCatalogApi.runtimeconfig.dev.json
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.2\ProductCatalogApi.dll
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.2\ProductCatalogApi.pdb
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.RazorAssemblyInfo.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.RazorAssemblyInfo.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.AssemblyInfoInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.AssemblyInfo.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.RazorTargetAssemblyInfo.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.dll
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.pdb
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.2\ProductCatalogApi.csprojAssemblyReference.cache
