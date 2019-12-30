@@ -1,0 +1,5 @@
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfoInputs.cache
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfo.cs

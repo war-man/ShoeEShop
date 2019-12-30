@@ -1,4 +1,3 @@
-C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csprojAssemblyReference.cache
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.csproj.CoreCompileInputs.cache
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
