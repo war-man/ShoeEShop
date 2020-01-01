@@ -1,37 +1,48 @@
-version: "3.2"
+version: '3.4'
 
 networks:
-   frontend:
-   backend:
+  frontend:
+  backend:
 
 services:
-   catalog:
-      image: shoes/catalog
-      build:
-         context: .\src\Services\ProductCatalogApi
-         dockerfile: Dockerfile
-      environment:
-         - DatabaseServer=mssqlserver
-         - DatabaseName=CatalogDb
-         - DatabaseUser=sa
-         - DatabaseUserPassword=qwe123**
-      container_name: catalogapi
-      ports:
-         - "5000:80"
-      networks:
-         - backend
-         - frontend
-      depends_on:
-         - mssqlserver
+  catalog:
+    image: shoes/catalog
+    build:
+      context: .\src\Services\ProductCatalogApi
+      dockerfile: Dockerfile
+    environment:
+      - ConnectionString=server=mssqlserver;Database=CatalogDb;User Id=sa;Password=MyProduct123!;MultipleActiveResultSets=true
+    ports: 
+      - "8080:80"
+    networks:
+      - backend
+      - frontend
+    depends_on:
+      - mssqlserver
 
-   mssqlserver:
-      image: "microsoft/mssql-server-linux:latest"
-      ports:
-         - "1445:1433"
+  webmvc:
+    build: 
+      context: .\src\Web\WebMvc
+      dockerfile: Dockerfile
+    environment: 
+      - ASPNETCORE_ENVIRONMENT=Development 
+      - CatalogUrl=http://catalog
+    container_name: webshop
+    ports:
+      - "5500:80"
+    networks:
+      - frontend 
+    depends_on:
+      - catalog 
 
-      container_name: mssqlcontainer
-      environment:
-         - ACCEPT_EULA=Y
-         - SA_PASSWORD=qwe123**
-      networks:
-         - backend
+  mssqlserver:
+    image: mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+   
+    environment:
+      - SA_PASSWORD=MyProduct123!
+      - ACCEPT_EULA=Y
+    ports:
+      - "1400:1433"
+
+    networks:
+      - backend

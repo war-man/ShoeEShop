@@ -24,8 +24,12 @@
 
     docker system prune ile kullanılmayan imageları silebiliyoruz.
 
-    docker-compose build 
+    docker-compose build eğer docker-compose'da yenilikler varsa build yapmamız gerekir.
 
     docker-compose up mssqlserver
 
     docker-compose up catalog
+
+    docker-compose down containerları durdurur.
+
+    192.168.99.100:8080 catalog dockerdan aldığı bu ip'de çalışıyor. localhosttaki port mapping işlemi yapılmalı.

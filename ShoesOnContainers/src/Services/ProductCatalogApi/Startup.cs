@@ -22,17 +22,8 @@ namespace ProductCatalogApi
         {
             //appsettings'deki ExternalCatalogBaseUrl değerini CatalogSettingsdeki propertye set etmiş olduk.
             services.Configure<CatalogSettings>(Configuration);
-
-            //  string connectionString = 
-            //hepsi dockercompose.ymlden geliyor.
-            //var server = Configuration["DatabaseServer"];
-            //var database = Configuration["DatabaseName"];
-            //var user = Configuration["DatabaseUser"];
-            //var password = Configuration["DatabaseUserPassword"];
-            //var connectionString = string.Format("Server={0};Database={1};User={2};Password={3};", server, database, user, password);
-
+            //docker-compose up ile servisi çalıştırdığımız zaman docker-compose'daki ConnectionStringi alır. VS'den çalıştırdığımızda appsettings.json alır.
             services.AddDbContext<CatalogContext>(options => options.UseSqlServer(Configuration["ConnectionString"]));
-            //services.AddDbContext<CatalogContext>(options => options.UseSqlServer(connectionString));
 
             services.AddMvc();
 
