@@ -62,3 +62,4 @@ C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\TokenServic
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.2\TokenServiceApi.Views.pdb
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.2\TokenServiceApi.Views.pdb
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.2\TokenServiceApi.csproj.CopyComplete
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.2\TokenServiceApi.csprojAssemblyReference.cache

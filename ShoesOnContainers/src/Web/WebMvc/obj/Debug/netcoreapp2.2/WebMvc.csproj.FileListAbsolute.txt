@@ -25,7 +25,8 @@ C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\WebMvc.dll
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\WebMvc.pdb
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\WebMvc.csproj.CopyComplete
-C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\WebMvc.csprojAssemblyReference.cache
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Index.g.cshtml.cs
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\_pagination.g.cshtml.cs
 C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\_product.g.cshtml.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\oguzh\Source\Repos\ShoeEShop\ShoesOnContainers\src\Web\WebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\About.g.cshtml.cs
